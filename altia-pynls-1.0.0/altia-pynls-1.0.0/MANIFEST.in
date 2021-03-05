@@ -1,0 +1,3 @@
+recursive-include PyNLS *
+recursive-include PyNLS/WebServer/static *
+recursive-include PyNLS/WebServer/templates *

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: altia-pynls
+Version: 1.0.0
+Summary: A port of Altia NLS to Python
+Home-page: https://altia-abm.com/
+Author: Altia-ABM
+Author-email: Support@altia-abm.com
+License: UNKNOWN
+Description: This is a port of the Altia Network Licence Server in Python.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

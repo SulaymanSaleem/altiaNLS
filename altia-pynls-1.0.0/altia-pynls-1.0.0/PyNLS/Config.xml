@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<licence_server_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <datafolder></datafolder>
+  <heartbeat>300</heartbeat>
+  <licencefolder>Licences</licencefolder>
+  <maximumlogfilesize>10000</maximumlogfilesize>
+  <numberoflogs>10</numberoflogs>
+  <numberofthreads>5</numberofthreads>
+  <port>3180</port>
+  <reloadtime>02:30:00</reloadtime>
+  <webserverport>3181</webserverport>
+  <enablewebserver>true</enablewebserver>
+  <username>nlsuser</username>
+  <password></password>
+</licence_server_config>
